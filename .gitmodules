@@ -2,3 +2,9 @@
 	path = arceos
 	url = https://github.com/arceos-starry/arceos
 	branch = dev
+[submodule "dw_apb_uart"]
+	path = dw_apb_uart
+	url = https://github.com/qianchenzhumeng/dw_apb_uart.git
+[submodule "sg200x-bsp"]
+	path = sg200x-bsp
+	url = https://github.com/qianchenzhumeng/sg200x-bsp.git
